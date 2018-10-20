@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 	int bgImgHeight = 0;
 
 	/**
-	 * Normalized top position of the background.
+	 * Absolute top position of the background.
 	 */
 	int bgImgScrollY = 0;
 
